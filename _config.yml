@@ -63,6 +63,6 @@ prose:
           label: "title"
       - name: "date"
         field:
-          element: "text"
+          element: CURRENT_DATETIME
           label: "Date"
-          value: CURRENT_DATETIME
+  
