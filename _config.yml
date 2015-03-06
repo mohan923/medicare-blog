@@ -56,7 +56,7 @@ prose:
           label: "Tags"
       - name: "published"
         field:
-          element: "select"
+          element: "multiselect"
           label: "Status"
           options:
             - name: "True"
