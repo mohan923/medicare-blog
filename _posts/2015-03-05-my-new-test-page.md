@@ -3,6 +3,8 @@ author: "Center for Medicare & Medicaid Services"
 layout: post
 published: false
 title: My new test page
+category: my new page
+tags: new page
 ---
 
 ## A New Post
