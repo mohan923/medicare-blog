@@ -39,10 +39,11 @@ prose:
     - /_includes
   metadata:
     _posts:
-      - name: "category"
+      - name: "layout"
         field:
-          element: "text"
-          value: "articles"
+          element: "hidden"
+          value: "post"
+          type:  "post"
     _posts/blog:
       - name: "category"
         field:
