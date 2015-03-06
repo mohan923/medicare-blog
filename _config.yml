@@ -66,3 +66,4 @@ prose:
           element: "text"
           lable: "Date"
           value: ""
+          label: "Date"
