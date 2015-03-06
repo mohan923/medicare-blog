@@ -28,7 +28,7 @@ highlighter: pygments
 paginate: 5
 
 prose:
-  rooturl: '_posts'
+  rooturl: '_posts/blog'
   siteurl: 'http://prose.github.io/starter/'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
