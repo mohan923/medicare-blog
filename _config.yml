@@ -64,4 +64,5 @@ prose:
       - name: "date"
         field:
           element: "text"
-          label: "Date & TIME"
+          label: "Date & Time"
+          placeholder: "YEAR-MONTH-DATE HOUR:MINUTE:SECOND"
