@@ -53,6 +53,7 @@ prose:
         field:
           element: "text"
           value: ""
+          label: "Tags"
       - name: "published"
         field:
           element: "multiselect"
@@ -62,3 +63,8 @@ prose:
               value: "true"
             - name: "False"
               value: "false"
+      - name: "author"
+        field:
+          element: "hidden"
+          value: "Center for Medicare & Medicaid Services"
+          
