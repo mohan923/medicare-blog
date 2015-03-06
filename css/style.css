@@ -3,10 +3,28 @@
 
 body {
 font-family: ff-tisa-web-pro, Georgia, "Times New Roman", Times, serif;
-font-size: 18px;
+font-size: 16px;
 line-height: 1.42857143;
 color: #5e5e5e;
-background-color: #ffffff;
+background-color:#FCF7FC;
 }
 
 h1 { font-size: 3em !important}
+
+.site-header {margin-bottom:35px;}
+.site-header h3 {font-size: 15px; margin-top:0;}
+
+.post-inner {padding:10px; background-color:#fff;margin-bottom:14px; border: 1px solid #F2F0F2;}
+
+.post-inner hr {display:none;}
+
+.sidebar-module {margin-bottom:25px;}
+.sidebar-module h4 {border-bottom: 1px solid #ccc;
+padding-bottom: 10px; font-size:20px;}
+.sidebar-module ul {
+margin-left: 0;
+padding-left: 0;
+}
+.sidebar-module ul li   {list-style: none;
+padding-left: 0;
+margin-left: 0;}

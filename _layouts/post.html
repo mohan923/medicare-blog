@@ -3,14 +3,16 @@ layout: default
 ---
 <div class="post">
 
+  <div class="post-inner">
+
   <header class="post-header">
     <h2 class="post-title">{{ page.title }}</h2>
     <p class="post-meta">
     {{ site.locales[site.default_locale].PostedInCategories }}
     {% for cat in page.categories %}
-    
+
     <a href="{{site.baseurl}}/categories/#{{ cat }}">{{ cat }}</a>
-    {% endfor %} 
+    {% endfor %}
     {% if page.tags != empty %}
     {{ site.locales[site.default_locale].Taggedwith }}
     {% for tag in page.tags %}
@@ -24,10 +26,9 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
+</div>
   <hr />
 </div>
 
 
 {% include page_pagination.html%}
-
-
