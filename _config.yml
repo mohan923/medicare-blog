@@ -47,4 +47,18 @@ prose:
       - name: "category"
         field:
           element: "text"
-          value: "blog"
+          value: ""
+          label: "Category"
+      - name: "tags"
+        field:
+          element: "text"
+          value: ""
+      - name: "published"
+        field:
+          element: "multiselect"
+          label: "Status"
+          options:
+            - name: "True"
+              value: "true"
+            - name: "False"
+              value: "false"
