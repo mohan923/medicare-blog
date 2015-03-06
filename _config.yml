@@ -64,5 +64,4 @@ prose:
       - name: "date"
         field:
           element: "text"
-          label: "Date"
-          value: ""
+          label: "Date & TIME"
