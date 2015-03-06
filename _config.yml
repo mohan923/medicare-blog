@@ -56,15 +56,14 @@ prose:
           label: "Tags"
       - name: "published"
         field:
-          element: "multiselect"
+          element: "select"
           label: "Status"
           options:
             - name: "True"
-              value: "true"
+              value: ""
             - name: "False"
-              value: "false"
+              value: ""
       - name: "author"
         field:
           element: "hidden"
           value: "Center for Medicare & Medicaid Services"
-          
