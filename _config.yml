@@ -65,4 +65,4 @@ prose:
         field:
           element: CURRENT_DATETIME
           label: "Date"
-  
+          placeholder: "YEAR-MONTH-DATE HOUR:MINUTE:SECOND"
