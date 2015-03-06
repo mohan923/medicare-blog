@@ -39,18 +39,7 @@ prose:
     - /_includes
   metadata:
     _posts:
-      - name: "layout"
+      - name: "title"
         field:
-          element: "hidden"
-          value: "post"
-          type:  "post"
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
+          element: "text"
+          label: "title"
