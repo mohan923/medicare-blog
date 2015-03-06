@@ -58,8 +58,4 @@ prose:
         field:
           element: "hidden"
           value: "Center for Medicare & Medicaid Services"
-      - name: "title"
-        field:
-          element: "text"
-          label: "title"
-          
+      
