@@ -19,7 +19,7 @@ layout: default
     <a href="{{ site.baseurl }}/tags/#{{ tag }}" title="{{ tag }}">{{ tag }} </a>{% unless page.tags.last == tag %}, {% endunless %}
     {% endfor %}
     {% endif %}
-    {{ site.locales[site.default_locale].PostDate }}{{ page.date | date: "%b %-d, %Y" }}
+    {{ site.locales[site.default_locale].PostDate }}{{ page.date | date: "%b %-d, %Y"  }} {{page.author.display_name}}
     </p>
   </header>
 

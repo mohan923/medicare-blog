@@ -1,5 +1,5 @@
 ### Site info:
-title: Medicare Blog
+title: Medicare.gov Blog
 tagline: The Official Blog for U.S. Medicare Program. For more information, please visit www.medicare.gov
 
 author: Mohanraj Balasubramanian
@@ -13,6 +13,11 @@ url: "http://www.medicare.gov/blog" # the base hostname & protocol for your site
 favicon:     "/images/favicon.ico"
 
 lsi: false
+
+### Site setting:
+ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
+default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
+default_locale: "en" # blog sidebar language set, only include: English(en) and Chinese (cn)
 
 parmalink: /:categories/:title.html
 
@@ -49,8 +54,9 @@ prose:
           label: "Tags"
       - name: "author"
         field:
-          element: "hidden"
-          value: "Center for Medicare & Medicaid Services"
+          element: "text"
+          value: "By Center for Medicare & Medicaid Services"
+          label: "Author"
       - name: "title"
         field:
           element: "text"
