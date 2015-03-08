@@ -2,7 +2,7 @@
 /* CSS Document */
 
 body {
-font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family: 'Open Sans', sans-serif;
 font-size: 16px;
 line-height: 1.42857143;
 color: #5e5e5e;
@@ -33,7 +33,7 @@ background: #c9d3df !important;
   position: relative;
   margin-bottom: 5px;
   overflow: hidden;
-  height: 90px;
+  height: 100px;
   padding-top:20px;
   padding-left:10px;
 }
@@ -90,8 +90,21 @@ background: #c9d3df !important;
 
 .site-header h3 {font-size: 15px; margin-top:0;}
 
-.site-title h1 {  font-size: 2em;
+.site-title h1 {
+  font-size: 2em;
   padding: 10px 10px;
+  font-weight: 800;
+}
+
+h2.post-title {
+
+  font-weight: 600;
+  margin-top: 0 !important;
+  color:#337ab7;
+}
+.post-header {
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 20px;
 }
 
 .post-inner {margin-bottom:20px; margin-left:10px;padding:20px; -webkit-box-shadow: 1px 1px 5px 0px rgba(163,160,163,1);
@@ -101,7 +114,7 @@ box-shadow: 1px 1px 5px 0px rgba(163,160,163,1);
 
 .post-inner hr {display:none; }
 
-.sidebar-module {margin-bottom:25px;}
+.sidebar-module {margin-bottom:25px; margin-right: 25px }
 .sidebar-module h4 {border-bottom: 1px solid #ccc;
 padding-bottom: 10px; font-size:20px;}
 .sidebar-module ul {

@@ -11,13 +11,14 @@ layout: default
     <div class="post-inner">
 
     <header class="post-header">
+      {{ site.locales[site.default_locale].PostDate }}{{ post.date | date: "%b %-d, %Y" }}
       <h2 class="post-title">
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </h2>
       <p class="post-meta">
       {{ site.locales[site.default_locale].PostedInCategories }}
       {% for cat in post.categories %}
-      <a href="{{site.baseurl}}/categories/#{{ cat }}">{{ cat }}</a>&nbsp;
+      <a href="{{site.baseurl}}/categories/#{{ cat }}">{{ cat }}</a>&nbsp;, 
       {% endfor %}
       {% if post.tags != empty %}
       {{ site.locales[site.default_locale].Taggedwith }}
@@ -25,7 +26,7 @@ layout: default
       <a href="{{ site.baseurl }}/tags/#{{ tag }}" title="{{ tag }}">{{ tag }} </a>{% unless post.tags.last == tag %}, {% endunless %}
       {% endfor %}
       {% endif %}
-      {{ site.locales[site.default_locale].PostDate }}{{ post.date | date: "%b %-d, %Y" }},  {{post.author.display_name}}
+      {{post.author.display_name}}
       </p>
     </header>
 
