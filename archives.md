@@ -4,11 +4,16 @@ title: Archives
 permalink: /archives/
 ---
 
+<div class="post-inner">
 <ul class="tags-box">
+
 
 {% if site.posts != empty %}
 
 {% for post in site.posts %}
+
+<div class="tagbox-inner">
+
 {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
 {% unless year == this_year %}
 {% assign year = this_year %}
@@ -20,12 +25,18 @@ permalink: /archives/
 {{ post.date | date:"%Y-%m-%d" }}
 </time>
 &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title | capitalize }}</a><br />
+</div>
 {% endfor %}
 
 {% else %}
 
 <span>No posts</span>
 
+
+
+
 {% endif %}
 
 </ul>
+
+</div>
