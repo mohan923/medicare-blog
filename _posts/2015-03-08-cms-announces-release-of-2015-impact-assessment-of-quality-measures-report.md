@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: CMS announces release of 2015 Impact Assessment of Quality Measures Report
 author: "By Center for Medicare & Medicaid Services"
 category: CMS Blog post
