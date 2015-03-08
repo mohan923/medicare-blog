@@ -4,7 +4,7 @@ tagline: The Official Blog for U.S. Medicare Program. For more information, plea
 
 author: Mohanraj Balasubramanian
 
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
+baseurl: "/medicare-blog/" # the subpath of your site, e.g. /blog/
 url: "http://www.medicare.gov/blog" # the base hostname & protocol for your site
 
 
