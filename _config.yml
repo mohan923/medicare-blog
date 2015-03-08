@@ -64,5 +64,4 @@ prose:
       - name: "date"
         field:
           element: "text"
-          label: "Date & Time (eg. YEAR-MONTH-DATE HOUR:MINUTE:SECOND )"
-        
+          label: "Date & Time (eg. 2015-03-10 3:00:00 )"
