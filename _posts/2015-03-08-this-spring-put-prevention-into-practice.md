@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "This spring, put prevention into practice "
 author: "By Center for Medicare & Medicaid Services"
 category: Prevention
