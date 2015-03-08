@@ -1,10 +1,10 @@
 ### Site info:
-title: Medicare Blog
+title: Medicare.gov Blog
 tagline: The Official Blog for U.S. Medicare Program. For more information, please visit www.medicare.gov
 
 author: Mohanraj Balasubramanian
 
-baseurl: "/medicare-blog/" # the subpath of your site, e.g. /blog/
+baseurl: "/medicare-blog" # the subpath of your site, e.g. /blog/
 url: "http://www.medicare.gov/blog" # the base hostname & protocol for your site
 
 
@@ -29,8 +29,6 @@ paginate: 5
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://prose.github.io/starter/'
-  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
   ignore:
     - index.md
@@ -44,3 +42,26 @@ prose:
           element: "hidden"
           value: "post"
           type:  "post"
+      - name: "category"
+        field:
+          element: "text"
+          value: ""
+          label: "Category"
+      - name: "tags"
+        field:
+          element: "text"
+          value: ""
+          label: "Tags"
+      - name: "author"
+        field:
+          element: "text"
+          value: "By Center for Medicare & Medicaid Services"
+          label: "Author"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date & Time (eg. 2015-03-10 3:00:00 )"
