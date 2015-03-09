@@ -1,13 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Medicare Blog</title>
+    <title>Medicare.gov Blog</title>
     <description></description>
     <link>http://www.medicare.gov/blog/</link>
     <atom:link href="http://www.medicare.gov/blog/zfeed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Mar 2015 22:33:30 -0500</pubDate>
-    <lastBuildDate>Thu, 05 Mar 2015 22:33:30 -0500</lastBuildDate>
+    <pubDate>Mon, 09 Mar 2015 12:40:44 -0400</pubDate>
+    <lastBuildDate>Mon, 09 Mar 2015 12:40:44 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>This my first blog post</title>
+        <description>&lt;p&gt;he start of spring is a reminder of new beginnings – the longer hours of daylight, sprouting tulips and warmer weather are all indicators of a new season, and a new reason to be proactive with your health. One simple way to manage your health is to practice preventive care. Preventive services can find health problems early, when treatment works best, so taking advantage of them is a crucial step in maintaining a healthy lifestyle.&lt;/p&gt;
+
+&lt;p&gt;If you have Medicare, then you have access to a variety of preventive tests and screenings, most at no cost to you. If you’re new to Medicare, we cover a “Welcome to Medicare” preventive visit during your first 12 months of Part B coverage. This visit includes a review of your medical and social history related to your health and education and counseling about preventive services, including certain screenings, shots, and referrals for other care, if needed.&lt;/p&gt;
+
+&lt;p&gt;If you’ve had Part B for longer than 12 months, you can get a yearly wellness visit to develop or update a personalized prevention plan based on your current health and risk factors. In addition to these important wellness visits, Medicare covers screening tests for diabetes, colon cancer, breast cancer, osteoporosis, heart disease, and obesity management, just to name a few. Check out our complete list of Medicare-covered preventive services.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Mar 2015 10:05:00 -0400</pubDate>
+        <link>http://www.medicare.gov/blog/2015/03/09/this-my-first-blog-post.html</link>
+        <guid isPermaLink="true">http://www.medicare.gov/blog/2015/03/09/this-my-first-blog-post.html</guid>
+        
+        <category>First</category>
+        
+        <category>post</category>
+        
+        
+        <category></category>
+        
+      </item>
+    
+      <item>
+        <title>CMS announces release of 2015 Impact Assessment of Quality Measures Report</title>
+        <description>&lt;p&gt;By Dr. Patrick Conway, CMS Deputy Administrator for Innovation and Quality and Chief Medical Officer.&lt;/p&gt;
+
+&lt;p&gt;Today, CMS released the 2015 National Impact Assessment of Quality Measures Report (2015 Impact Report) (http://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/QualityMeasures/National-Impact-Assessment-of-the-Centers-for-Medicare-and-Medicaid-Services-CMS-Quality-Measures-Reports.html.). The 2015 Impact Report demonstrates that the nation has made clear progress in improving the healthcare delivery system to achieve the three aims of better care, smarter spending, and healthier people.
+This report is a comprehensive assessment of quality measures used by CMS. It examines the effectiveness and impact of measurement and demonstrates our commitment to achieving optimal results from our quality measurement programs. The report summarizes key findings from CMS quality measurement efforts and recommended next steps to improve on these efforts.
+Specifically, the report outlines the performance on quality measures over time and improvements achieved. Findings from the report include research on 25 CMS quality programs and hundreds of quality measures from 2006 to 2013 and builds on the prior 2012 Impact Assessment Report. Many of these measures are also included in incentive programs that link payment to quality performance.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 08 Mar 2015 20:00:00 -0400</pubDate>
+        <link>http://www.medicare.gov/blog/cms%20blog%20post/2015/03/08/cms-announces-release-of-2015-impact-assessment-of-quality-measures-report.html</link>
+        <guid isPermaLink="true">http://www.medicare.gov/blog/cms%20blog%20post/2015/03/08/cms-announces-release-of-2015-impact-assessment-of-quality-measures-report.html</guid>
+        
+        <category>Impact,</category>
+        
+        <category>Assessment,</category>
+        
+        <category>Quality</category>
+        
+        
+        <category>cms blog post</category>
+        
+      </item>
+    
+      <item>
+        <title>This spring, put prevention into practice </title>
+        <description>&lt;p&gt;The start of spring is a reminder of new beginnings – the longer hours of daylight, sprouting tulips and warmer weather are all indicators of a new season, and a new reason to be proactive with your health. One simple way to manage your health is to practice preventive care. Preventive services can find health problems early, when treatment works best, so taking advantage of them is a crucial step in maintaining a healthy lifestyle.&lt;/p&gt;
+
+&lt;p&gt;If you have Medicare, then you have access to a variety of preventive tests and screenings, most at no cost to you. If you’re new to Medicare, we cover a “Welcome to Medicare” preventive visit during your first 12 months of Part B coverage. This visit includes a review of your medical and social history related to your health and education and counseling about preventive services, including certain screenings, shots, and referrals for other care, if needed.&lt;/p&gt;
+
+&lt;p&gt;If you’ve had Part B for longer than 12 months, you can get a yearly wellness visit to develop or update a personalized prevention plan based on your current health and risk factors. In addition to these important wellness visits, Medicare covers screening tests for diabetes, colon cancer, breast cancer, osteoporosis, heart disease, and obesity management, just to name a few. Check out our complete list of Medicare-covered preventive services.&lt;/p&gt;
+
+&lt;p&gt;So as you tend to your garden this spring, make a commitment to tend to yourself too. Practice preventive care so you can you stay healthy, live longer, and delay or prevent many diseases.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 08 Mar 2015 17:27:00 -0400</pubDate>
+        <link>http://www.medicare.gov/blog/prevention/2015/03/08/this-spring-put-prevention-into-practice.html</link>
+        <guid isPermaLink="true">http://www.medicare.gov/blog/prevention/2015/03/08/this-spring-put-prevention-into-practice.html</guid>
+        
+        <category>Prevention</category>
+        
+        
+        <category>prevention</category>
+        
+      </item>
     
       <item>
         <title>My Test Page 4</title>
@@ -126,52 +191,6 @@
         <pubDate>Mon, 08 Dec 2014 00:00:43 -0500</pubDate>
         <link>http://www.medicare.gov/blog/uncategorized/2014/12/08/get-ready.html</link>
         <guid isPermaLink="true">http://www.medicare.gov/blog/uncategorized/2014/12/08/get-ready.html</guid>
-        
-        
-        <category>uncategorized</category>
-        
-      </item>
-    
-      <item>
-        <title>Medicare Open Enrollment: is Medicare still on your “to do” list?</title>
-        <description>&lt;p&gt;“To do” lists are very helpful during this hectic time of year. If something important isn’t written down, it’s easy to forget. If you still haven’t crossed off “Compare Medicare coverage” from your to do list, time is running out!&lt;/p&gt;
-&lt;p&gt;Medicare Open Enrollment ends this week on December 7. To help you sort through your choices, try using the &lt;a href=&quot;https://medicare.gov/find-a-plan/questions/home.aspx&quot;&gt;Medicare Plan Finder&lt;/a&gt;. You can review the plan options in your area and decide the best mix of benefits and costs that meets your needs and budget.&lt;/p&gt;
-&lt;p&gt;In these last few days of Medicare Open Enrollment, take a moment to review your health care coverage and see if you need to make any changes for next year. If you decide you’re happy with the plan you have now, and the plan’s still being offered next year, you don’t need to do anything. But if you’re thinking about making any changes, now’s the time to act so you can cross another item off your to do list.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 01 Dec 2014 00:01:08 -0500</pubDate>
-        <link>http://www.medicare.gov/blog/open%20enrollment/2014/12/01/medicare-open-enrollment-is-medicare-still-on-your-to-do-list.html</link>
-        <guid isPermaLink="true">http://www.medicare.gov/blog/open%20enrollment/2014/12/01/medicare-open-enrollment-is-medicare-still-on-your-to-do-list.html</guid>
-        
-        
-        <category>open enrollment</category>
-        
-      </item>
-    
-      <item>
-        <title>Support World AIDS Day - wear your red ribbon</title>
-        <description>&lt;p&gt;Did you know that every year 50,000 people are diagnosed with HIV? Of the 1.1 million people living with HIV in the United States, 1 in every 6 doesn’t even know they have it. December 1&lt;sup&gt;st&lt;/sup&gt; 2014 is World AIDS day and the theme is “Focus, Partner, Achieve: An AIDS-free Generation.”&lt;/p&gt;
-&lt;p&gt;HIV is the virus that can lead to Acquired Immunodeficiency Syndrome, or AIDS. Early testing and diagnosis play key roles in reducing the spread of the disease, extending life expectancy, and cutting costs of care. At least 1 in 3 people in the U.S. who test positive for HIV is tested too late to get the full advantage of treatment. Testing is also an important first step in getting HIV-infected people the medical care and support they need to improve their health and help them maintain safer behaviors.&lt;/p&gt;
-&lt;p&gt;What can you do to help achieve an AIDS-free generation? Medicare covers &lt;a href=&quot;http://www.medicare.gov/coverage/hiv-screening.html&quot;&gt;HIV screening&lt;/a&gt; for people with Medicare of any age who ask for the test, pregnant women, and people at increased risk for the infection (like gay and bisexual men, injection drug users, or people with multiple sexual partners).&lt;/p&gt;
-&lt;p&gt;Visit Aids.gov to learn more about &lt;a href=&quot;http://aids.gov/news-and-events/awareness-days/world-aids-day/&quot;&gt;World AIDS Day&lt;/a&gt; and CDC.gov to learn more about their &lt;a href=&quot;http://www.cdc.gov/ActAgainstAIDS/&quot;&gt;Act Against AIDS campaign&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;To find an HIV test site, visit HIVtest.cdc.gov or text your zip code to “KNOWIT” (566948).&lt;/p&gt;
-</description>
-        <pubDate>Mon, 01 Dec 2014 00:00:28 -0500</pubDate>
-        <link>http://www.medicare.gov/blog/uncategorized/2014/12/01/world-aids.html</link>
-        <guid isPermaLink="true">http://www.medicare.gov/blog/uncategorized/2014/12/01/world-aids.html</guid>
-        
-        
-        <category>uncategorized</category>
-        
-      </item>
-    
-      <item>
-        <title>Medicare is ready to help you quit smoking</title>
-        <description>&lt;p&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&lt;span style=&quot;font-size:medium;&quot;&gt;&lt;span style=&quot;font-family:Calibri;&quot;&gt;Every year, more people die from lung cancer than any other type of cancer and smoking is the leading cause. Don’t become a statistic - Medicare is ready to help you quit smoking. Talk to your doctor today and cross one thing off your list.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-family:Calibri;color:#000000;font-size:medium;&quot;&gt;Besides being famous for Thanksgiving, November is also Lung Cancer Awareness Month and the &lt;a href=&quot;http://www.cancer.org/healthy/stayawayfromtobacco/greatamericansmokeout/index&quot;&gt;Great American Smokeout&lt;/a&gt;. While you’re making lists for the upcoming holiday season, make a note to talk with your doctor about quitting if you smoke. Medicare covers 8 face-to-face &lt;/span&gt;&lt;a href=&quot;http://www.medicare.gov/coverage/smoking-and-tobacco-use-cessation.html&quot;&gt;&lt;span style=&quot;font-family:Calibri;font-size:medium;&quot;&gt;smoking cessation &lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-size:medium;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&lt;span style=&quot;font-family:Calibri;&quot;&gt;&lt;a href=&quot;http://www.medicare.gov/coverage/smoking-and-tobacco-use-cessation.html&quot;&gt;counseling sessions&lt;/a&gt; during a 12-month period. If you haven&#39;t been diagnosed with an illness caused or complicated by tobacco use, you pay nothing for these counseling sessions, as long as you get them from a qualified doctor or another Medicare provider.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 20 Nov 2014 00:01:28 -0500</pubDate>
-        <link>http://www.medicare.gov/blog/uncategorized/2014/11/20/quit-smoking.html</link>
-        <guid isPermaLink="true">http://www.medicare.gov/blog/uncategorized/2014/11/20/quit-smoking.html</guid>
         
         
         <category>uncategorized</category>
