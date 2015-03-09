@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: This my first blog post
 author: "By Center for Medicare & Medicaid Services"
 category: ""
