@@ -7,11 +7,10 @@ author: Mohanraj Balasubramanian
 baseurl: "/medicare-blog" # the subpath of your site, e.g. /blog/
 url: "http://www.medicare.gov/blog" # the base hostname & protocol for your site
 
-
 ### Personal info and site tools info:
 
 favicon:     "/images/favicon.ico"
-media: 'media'
+media: 'images'
 
 lsi: false
 
