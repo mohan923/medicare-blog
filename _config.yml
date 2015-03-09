@@ -10,14 +10,9 @@ url: "http://www.medicare.gov/blog" # the base hostname & protocol for your site
 ### Personal info and site tools info:
 
 favicon:     "/images/favicon.ico"
-media: :assets"
+media: : "assets"
 
 lsi: false
-
-### Site setting:
-ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
-default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
-default_locale: "en" # blog sidebar language set, only include: English(en) and Chinese (cn)
 
 parmalink: /:categories/:title.html
 
