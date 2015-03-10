@@ -1,0 +1,62 @@
+### Site info:
+title: Medicare.gov Blog
+tagline: The Official Blog for U.S. Medicare Program. For more information, please visit www.medicare.gov
+
+author: Mohanraj Balasubramanian
+
+baseurl: "/medicare-blog" # the subpath of your site, e.g. /blog/
+url: "http://www.medicare.gov/blog" # the base hostname & protocol for your site
+
+### Personal info and site tools info:
+
+favicon:     "/images/favicon.ico"
+
+
+lsi: false
+
+parmalink: /:categories/:title.html
+
+
+### Build settings
+markdown: rdiscount
+highlighter: pygments
+paginate: 5
+
+prose:
+  rooturl: '_posts'
+  media: 'media'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+          type:  "post"
+      - name: "category"
+        field:
+          element: "text"
+          value: ""
+          label: "Category"
+      - name: "tags"
+        field:
+          element: "text"
+          value: ""
+          label: "Tags"
+      - name: "author"
+        field:
+          element: "text"
+          value: "By Center for Medicare & Medicaid Services"
+          label: "Author"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date & Time (eg. 2015-03-10 3:00:00 )"

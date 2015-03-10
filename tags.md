@@ -3,7 +3,7 @@ layout: page
 title: Tags
 permalink: /tags/
 ---
-<div class="post-inner">
+
 <ul class="tags-box">
 {% if site.posts != empty %}
 {% for tag in site.tags %}
@@ -23,4 +23,3 @@ permalink: /tags/
 <span>No posts</span>
 {% endif %}
 </ul>
-</div>

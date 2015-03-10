@@ -6,21 +6,20 @@ layout: default
   <div class="post-inner">
 
   <header class="post-header">
-    {{ site.locales[site.default_locale].PostDate }}{{ page.date | date: "%b %-d, %Y"  }}
     <h2 class="post-title">{{ page.title }}</h2>
     <p class="post-meta">
     {{ site.locales[site.default_locale].PostedInCategories }}
     {% for cat in page.categories %}
 
-    <a href="{{site.baseurl}}/categories/#{{ cat }}">{{ cat }}</a>, 
+    <a href="{{site.baseurl}}/categories/#{{ cat }}">{{ cat }}</a>
     {% endfor %}
     {% if page.tags != empty %}
     {{ site.locales[site.default_locale].Taggedwith }}
     {% for tag in page.tags %}
     <a href="{{ site.baseurl }}/tags/#{{ tag }}" title="{{ tag }}">{{ tag }} </a>{% unless page.tags.last == tag %}, {% endunless %}
-    {% endfor %}      
+    {% endfor %}
     {% endif %}
-     {{page.author.display_name}}
+    {{ site.locales[site.default_locale].PostDate }}{{ page.date | date: "%b %-d, %Y" }}
     </p>
   </header>
 
