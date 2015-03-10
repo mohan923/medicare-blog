@@ -52,8 +52,9 @@ prose:
       - name: "category"
         field:
           element: "text"
-          value: ""
+          value: "Uncategorized"
           label: "Category"
+          placeholder: "Uncategorized"
       - name: "tags"
         field:
           element: "text"
