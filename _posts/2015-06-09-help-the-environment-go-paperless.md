@@ -1,11 +1,12 @@
 ---
 layout: post
-published: false
+published: true
 title: "HELP THE ENVIRONMENT—GO PAPERLESS!"
 category: Strengthening Medicare
 author: "By Center for Medicare & Medicaid Services"
 tags: "Go Paperless!"
 ---
+
 
 June 5th is World Environment Day – a day for encouraging awareness and action for the environment that’s celebrated in over 100 countries worldwide.  How can you make your voice heard this year?  One great way is to sign up to get your “Medicare & You” handbook electronically.
 
