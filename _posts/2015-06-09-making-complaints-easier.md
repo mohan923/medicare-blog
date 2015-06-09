@@ -1,10 +1,11 @@
 ---
 layout: post
-published: false
+published: true
 title: MAKING COMPLAINTS EASIER
 category: Uncategorized
 author: "By Center for Medicare & Medicaid Services"
 ---
+
 
 We hope every healthcare experience you have is a positive one. That’s why we offer you a variety of tools to express your concerns. One of those tools is the ability to file a complaint (sometimes called a “grievance”).
 
